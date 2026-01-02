@@ -1,7 +1,7 @@
 {
-  "name": "MGM Light Out Tracker",
+  "name": "MGMLightOut",
   "short_name": "MGMLightOut",
-  "description": "Street light outage tracking and reporting for MGM",
+  "description": "Street light outage tracking and reporting",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",
